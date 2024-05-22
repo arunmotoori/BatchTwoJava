@@ -2,6 +2,8 @@ package classobjectdemo.four;
 
 public class Car {
 	
+	//Assignment - Create Animal class template and create different types of animals 
+	
 	String model; // Instance global variable
 	String company; // Instance global variable
 	String color; // Instance global variable
@@ -16,7 +18,7 @@ public class Car {
 		this.color = color;
 		this.milage = milage;
 		this.price = price;
-				
+		
 	}
 	
 	public void startCar() {
